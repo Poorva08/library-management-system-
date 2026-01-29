@@ -1,0 +1,5 @@
+Student Registration Module
+Fields:
+- Name
+- Roll Number
+- Department
