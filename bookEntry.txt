@@ -3,3 +3,4 @@ Features:
 - Add book
 - Update book
 - Delete book
+- View book
